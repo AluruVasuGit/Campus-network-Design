@@ -9,6 +9,7 @@ Domain Name Resolution – DNS Server for efficient name resolution.
 Routing Protocols – OSPF & RIP for optimized data transfer.
 Remote Management – SSH & Telnet for secure administrative access.
 Security Measures – Firewalls & ACLs to prevent unauthorized access.
+
 Tools & Technologies Used
 Cisco Packet Tracer – Network simulation and design.
 Routing & Switching Protocols – OSPF, RIP, VLANs, ACLs.
@@ -23,9 +24,10 @@ Project Outcomes
 How to Use the Project
 Download Cisco Packet Tracer if you haven’t already.
 Clone this repository:
-git clone https://github.com/yourusername/campus-network-project.git
+git clone https://github.com/AluruVasuGit/Campus-network-Design.git
 Open the .pkt file in Cisco Packet Tracer.
 Explore the configurations and test the network functionality.
+
 Future Enhancements
 Implement advanced firewall rules for enhanced security.
 Integrate load balancing for optimized network performance.
